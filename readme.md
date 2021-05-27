@@ -1,4 +1,4 @@
-# Three.js Journey
+# Galaxy Generator Using Three.js
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
