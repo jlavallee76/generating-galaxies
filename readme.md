@@ -1,6 +1,6 @@
 # Galaxy Generator Using Three.js
 
-# Try The Project Here!
+## Try The Project Here!
 https://josh-generates-galaxies.netlify.app/
 
 ## Setup
